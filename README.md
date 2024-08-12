@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://web.telegram.org/k/#@Luckyyyyyyyyyy">
+  <a href="https://telegram.me/Luckyyyyyyyyyy">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://x.com/KonasovaMa15282">
