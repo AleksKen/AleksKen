@@ -27,7 +27,7 @@ I am a Backend Developer.
 
 - :computer: Exploring Technical Content Writing.
 
-- :nail_care: In my free time, I like to watch True Crime.
+- :nail_care: TMI: In my free time, I like to watch True Crime.
 
 - :mailbox:How to reach me: mariakonasova30112@gmail.com
 
