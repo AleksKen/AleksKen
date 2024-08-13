@@ -51,7 +51,7 @@ I am a Backend Developer.
 ### :sparkles: My Stats :
 
 >#### "サムライには目標はなく道しかありません"
-> <p align="right">— <em>Miyamoto Musashi</em></p>
+> <p align="right">— <em>Yamamoto Tsunetomo</em></p>
 
 
 <div id="stats" align="center">
