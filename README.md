@@ -50,6 +50,10 @@ I am a Backend Developer.
 
 ### :sparkles: My Stats :
 
+>#### "サムライには目標はなく道しかありません"
+> <p align="right">— <em>Miyamoto Musashi</em></p>
+
+
 <div id="stats" align="center">
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=AleksKen&theme=transparent&hide_border=true&mode=weekly" alt="GitHub Streak" />
